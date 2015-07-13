@@ -1,0 +1,54 @@
+@import url(http://fonts.googleapis.com/css?family=Ravi+Prakash);
+header {
+	background-color: #EAC117;
+	font-family: 'Ravi Prakash', cursive;
+	font-size:25px;
+	
+	
+
+}
+html {
+	background: url("BCK.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: 90%;
+	background-color: brown;
+}
+
+div#candlez {
+	padding-top: 80px;
+	position:relative;
+}
+
+img#candle2 {
+	padding-left:1005px;
+	position: absolute;
+}
+
+img#candle3 {
+	padding-left:419px;
+
+}
+p#cookie {
+	font-family: 'Ravi Prakash', cursive;
+	font-size: 55px;
+
+}
+a {
+	font-size: 30px;
+
+}
+
+b#hi {
+	font-size:20px;
+
+}
+
+button.button{
+	font-size:50px;
+	/*
+	position:relative;
+	position: absolute;
+	*/
+}
